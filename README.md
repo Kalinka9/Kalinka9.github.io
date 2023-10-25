@@ -25,7 +25,7 @@ Texto AI is an innovative text Enhancement application designed to elevate your 
 Getting started with Texto AI is a breeze:
 
 1. **Get Texto AI:** We are currently working on the production version soon to be published on Google Play and Apple App Store stay tuned.
-
+![Texto AI Screenshot]([/assetsimg/one.png](https://e7.pngegg.com/pngimages/390/549/png-clipart-apple-app-store-advertisement-iphone-app-store-android-coming-soon-electronics-text.png))
 
 
 ## Join the Texto AI Community
