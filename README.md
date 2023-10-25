@@ -4,7 +4,7 @@
 
 Are you looking to enhance the quality and impact of your written content? Texto AI is here to help. 
 
-Texto AI is an innovative text improvement application designed to elevate your writing and communication skills. Whether you're a seasoned writer, a student, a blogger, or a professional communicator, Texto AI is your trusty companion for creating text that's clear, engaging, and error-free.
+Texto AI is an innovative text Enhancement application designed to elevate your writing and communication skills. Whether you're a seasoned writer, a student, a blogger, or a professional communicator, Texto AI is your trusty companion for creating text that's clear, engaging, and error-free.
 
 ## What Sets Texto AI Apart
 
@@ -24,7 +24,7 @@ Texto AI is an innovative text improvement application designed to elevate your 
 
 Getting started with Texto AI is a breeze:
 
-1. **Get Texto AI:** You can download and install Texto AI from our website. It's your one-stop solution for text improvement.
+1. **Get Texto AI:** You can download and install Texto AI from our website. It's your one-stop solution for text Enhancement.
 
 2. **Configuration:** Personalize Texto AI to meet your specific writing needs by adjusting the settings and preferences.
 
@@ -38,4 +38,4 @@ At Texto AI, we're passionate about improving written communication. We welcome 
 
 We value your input and aim to make Texto AI a better tool with every update. If you encounter any problems, have questions, or want to provide feedback, please visit our [Issues](https://github.com/yourusername/texto-ai/issues) section.
 
-Thank you for considering Texto AI to enhance your writing. We believe this application will not only improve your writing experience but also empower you to create content that leaves a lasting impact. Happy writing!
+Thank you for considering Texto AI to enhance your writing. We believe this application will not only Enhance your writing experience but also empower you to create content that leaves a lasting impact. Happy writing!
