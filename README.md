@@ -6,6 +6,10 @@ Are you looking to enhance the quality and impact of your written content? Texto
 
 Texto AI is an innovative text Enhancement application designed to elevate your writing and communication skills. Whether you're a seasoned writer, a student, a blogger, or a professional communicator, Texto AI is your trusty companion for creating text that's clear, engaging, and error-free.
 
+![Texto AI Screenshot](/assetsimg/1.png)
+![Texto AI Screenshot](/assetsimg/2.png)
+![Texto AI Screenshot](/assetsimg/3.png)
+
 ## What Sets Texto AI Apart
 
 - **Grammar and Spell Check:** Our advanced algorithms meticulously scan your text, identifying and correcting grammar and spelling mistakes, ensuring that your writing is polished and professional.
