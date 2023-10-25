@@ -12,8 +12,6 @@ Texto AI is an innovative text Enhancement application designed to elevate your 
 
 - **Style Enhancement:** Elevate your writing style with Texto AI's vocabulary and sentence structure suggestions. We'll help you make your content more engaging and impactful.
 
-- **Plagiarism Detection:** Maintain the integrity of your work with Texto AI's plagiarism detection feature. It scans your text, highlighting any potential issues so you can create original content with confidence.
-
 - **Conciseness and Clarity:** We'll help you streamline your writing, making it more concise and easier to understand. Say goodbye to verbosity and hello to clarity.
 
 - **Customization:** Texto AI is not one-size-fits-all. Customize it to match your unique writing style and preferences, ensuring that your content resonates with your audience.
@@ -24,11 +22,9 @@ Texto AI is an innovative text Enhancement application designed to elevate your 
 
 Getting started with Texto AI is a breeze:
 
-1. **Get Texto AI:** You can download and install Texto AI from our website. It's your one-stop solution for text Enhancement.
+1. **Get Texto AI:** We are currently working on the production version soon to be published on Google Play and Apple App Store stay tuned.
 
-2. **Configuration:** Personalize Texto AI to meet your specific writing needs by adjusting the settings and preferences.
 
-3. **Usage:** Let Texto AI work its magic on your text. Explore its various features and discover how it can elevate your writing.
 
 ## Join the Texto AI Community
 
